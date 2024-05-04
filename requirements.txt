@@ -1,0 +1,5 @@
+Kivy
+Kivy-Garden
+kivymd
+xcamera
+opencv-python
